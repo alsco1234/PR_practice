@@ -19,8 +19,8 @@
 > * Branch 확인 : git branch   
 > * Branch 병합 : git merge "병합할브랜치이름" --> 브랜치를 현재의 브랜치로 병합   
 > * Branch 기록확인 : git log   
-> * 커밋 취소 : git reset   
-**merge cinflict**   
+> * 커밋 취소 : git reset      
+**merge cnflict**   
 <pre>
 <code>
 void message(){
